@@ -1,10 +1,10 @@
-# The Association of Federated Knowledge Workers
+# Association of Federated Knowledge Workers
 
 An unofficial, official community for people who work with knowledge
 (which is pretty much everyone at some point in their lives). We prefer
 healthy irreverence to academic formality. We meet online for community
-[live streams](https://rwxrob.live) Fridays at Noon American Eastern
-time (-0500).
+[live streams](https://rwxrob.live) Fridays at 9am American Eastern
+time (-0500) also in `#afkwork` on Freenode.
 
 ## Governance
 
